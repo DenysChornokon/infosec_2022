@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lab5
 {
-    class MENU
+    class CONSOLE
     {
         public const int var = 6 * 10000;
 
@@ -110,22 +110,22 @@ namespace Lab5
         {
             while (true)
             {
-                Console.WriteLine($"Log up - 1\n" +
-                              $"Log in - 2");
+                Console.WriteLine($"Log up - 1\n" + 
+                                  $"Log in - 2");
                 char operation = Console.ReadKey().KeyChar;
                 Console.WriteLine();
                 switch (operation)
                 {
                     case '1':
                         {
-                            Console.WriteLine("Registration: ");
+                            Console.WriteLine("Registration ");
                             LoginApp.Register();
                             break;
                         }
 
                     case '2':
                         {
-                            Console.WriteLine("Loging in:");
+                            Console.WriteLine("Loging in");
                             LoginApp.Login();
                             break;
                         }
