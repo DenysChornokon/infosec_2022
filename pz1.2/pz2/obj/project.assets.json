@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows10\\source\\repos\\Projects\\pz2\\pz2\\pz2.csproj",
+      "projectUniqueName": "C:\\Users\\Windows10\\source\\repos\\Projects\\pz1.2\\pz2\\pz2.csproj",
       "projectName": "pz2",
-      "projectPath": "C:\\Users\\Windows10\\source\\repos\\Projects\\pz2\\pz2\\pz2.csproj",
+      "projectPath": "C:\\Users\\Windows10\\source\\repos\\Projects\\pz1.2\\pz2\\pz2.csproj",
       "packagesPath": "C:\\Users\\Windows10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows10\\source\\repos\\Projects\\pz2\\pz2\\obj\\",
+      "outputPath": "C:\\Users\\Windows10\\source\\repos\\Projects\\pz1.2\\pz2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows10\\AppData\\Roaming\\NuGet\\NuGet.Config",
