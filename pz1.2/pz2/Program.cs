@@ -6,7 +6,7 @@ class RandomNum
     public static void Main()
     {
 
-        for (int r = 0; r < 5; r++)
+        for (int r = 0; r < 15; r++)
         {
             var rnd = GenerateRandomNumber();
 
