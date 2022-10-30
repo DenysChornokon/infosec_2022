@@ -11,10 +11,10 @@ namespace pz_3_4
         public static void poch()
         {
             Console.Write("Your string: ");
-            string entry = Console.ReadLine();
+            string ystr = Console.ReadLine();
 
 
-            string hash = hashmade.GMD5(entry);
+            string hash = hashmade.GMD5(ystr);
             if (!File.Exists(textfile3)) File.Create(textfile3);
             string[] db = File.ReadAllLines(textfile3);
 

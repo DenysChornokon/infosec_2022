@@ -46,12 +46,12 @@ namespace pz_3_4
                 {
                     if (db.ContainsKey(log))
                     {
-                        Console.WriteLine("Data repeated");
+                        Console.WriteLine("Login has beed registrated before. Please try another one!");
                         notCompleted = true;
                     }
                     else
                     {
-                        Console.WriteLine("Signing up compleated!");
+                        Console.WriteLine("Signing up completed!");
 
                         string dataToSave = $"{log}\t{passwordHash}\n";//into file
                         File.AppendAllText(textfile4, dataToSave);
