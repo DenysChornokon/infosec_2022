@@ -1,0 +1,14 @@
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\bin\Debug\netcoreapp3.1\pz6.exe
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\bin\Debug\netcoreapp3.1\pz6.deps.json
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\bin\Debug\netcoreapp3.1\pz6.runtimeconfig.json
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\bin\Debug\netcoreapp3.1\pz6.runtimeconfig.dev.json
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\bin\Debug\netcoreapp3.1\pz6.dll
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\bin\Debug\netcoreapp3.1\pz6.pdb
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\obj\Debug\netcoreapp3.1\pz6.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\obj\Debug\netcoreapp3.1\pz6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\obj\Debug\netcoreapp3.1\pz6.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\obj\Debug\netcoreapp3.1\pz6.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\obj\Debug\netcoreapp3.1\pz6.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\obj\Debug\netcoreapp3.1\pz6.dll
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\obj\Debug\netcoreapp3.1\pz6.pdb
+C:\Users\Windows10\source\repos\Projects\pz6\pz6\obj\Debug\netcoreapp3.1\pz6.genruntimeconfig.cache
