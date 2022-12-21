@@ -8,7 +8,7 @@ namespace pz6
     class Program
     {
         
-        public static int myVar = 6000;
+        public static int myVar = 26000;
         static void Main(string[] args)
         {
             string task;
